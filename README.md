@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cliff-Mbithuka
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cliffordmusyoka1@gmail.com
 - ⚡ Fun fact: I'm a Sanguine
 
