@@ -2,13 +2,12 @@
 #### Software Developer
 
 const Cliff = {
+
   languages: [Javascript, Typescript, HTML, CSS, SQL, PHP],
-  
   frameworks: [ Node.js, Express.js],
-  
   tools: [Git, VSCode],
-  
   databases: [MongoDB,MySQL]
+
 }
 
 - 👯 I’m looking to collaborate on Node.js Projects 
