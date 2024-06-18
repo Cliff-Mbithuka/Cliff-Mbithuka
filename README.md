@@ -2,17 +2,22 @@
 #### Software Developer
 
 const Cliff = {
-
-  languages: [Javascript, Typescript, HTML, CSS, SQL, PHP],
-  frameworks: [ Node.js, Express.js],
-  tools: [Git, VSCode],
-  databases: [MongoDB,MySQL]
-
+languages: [Javascript, Typescript, HTML, CSS, SQL, PHP], 
+frameworks: [ Node.js, Express.js], 
+tools: [Git, VSCode],
+ databases: [MongoDB,MySQL]
 }
+
+Skills:  REACT / JS / HTML / CSS / NODE.JS 
 
 - 👯 I’m looking to collaborate on Node.js Projects 
 - 📫 How to reach me: cliffordmusyoka1@gmail.com 
 - ⚡ Fun fact: I'm a Sanguine 
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cliff-Mbithuka)](https://github.com/anuraghazra/github-readme-stats)
 <!---
