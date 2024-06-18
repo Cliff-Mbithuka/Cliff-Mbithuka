@@ -1,8 +1,12 @@
 ### Hi there 👋, Clifford Mbithuka
 #### Software Developer
-I am Clifford, a software developer specializing in Node.js and TypeScript. I excel in creating robust applications, leveraging TypeScript's type safety and Node.js's efficient runtime for scalable, high-performance projects. Continuously honing my skills, I am passionate about delivering top-quality, reliable solutions in modern software development.
 
-Skills:  REACT / JS / HTML / CSS / NODE.JS 
+const CLIFF = {
+  languages: [Javascript, Typescript, HTML, CSS, SQL, PHP],
+  frameworks: [ Node.js, Express.js],
+  tools: [Git, VSCode],
+  databases: [MongoDB,MySQL]
+}
 
 - 👯 I’m looking to collaborate on Node.js Projects 
 - 📫 How to reach me: cliffordmusyoka1@gmail.com 
