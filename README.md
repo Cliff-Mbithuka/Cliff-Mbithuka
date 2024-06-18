@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clifford Mbithuka
+##- 👋 Hi, I’m Clifford Mbithuka
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me cliffordmusyoka1@gmail.com
 - ⚡ Fun fact: I'm a Sanguine
