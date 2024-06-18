@@ -1,10 +1,13 @@
 ### Hi there 👋, Clifford Mbithuka
 #### Software Developer
 
-const CLIFF = {
+const Cliff = {
   languages: [Javascript, Typescript, HTML, CSS, SQL, PHP],
+  
   frameworks: [ Node.js, Express.js],
+  
   tools: [Git, VSCode],
+  
   databases: [MongoDB,MySQL]
 }
 
