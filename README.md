@@ -5,7 +5,7 @@ I am Clifford, a dedicated software developer specializing in Node.js and TypeSc
 ## Skills 
 💻  HTML / CSS
 🕸   REACT 
-💻  JS / NODE.JS 
+💻  JS / PHP / NODE.JS 
 
 - 👯 I’m looking to collaborate on Node.js Projects 
 - 📫 How to reach me: cliffordmusyoka1@gmail.com 
