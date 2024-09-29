@@ -1,4 +1,4 @@
-#           Hi there 👋, Clifford Mbithuka
+#           Hi there 👋,  I'm Clifford Mbithuka
 
 👯 I’m looking to collaborate on Node.js Projects<br>📫 How to reach me: cliffordmusyoka1@gmail.com<br>⚡ Fun fact: I'm a Sanguine
 
