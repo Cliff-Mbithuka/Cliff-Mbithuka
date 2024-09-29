@@ -1,6 +1,6 @@
-# Hi there 👋, Clifford Mbithuka
+#           Hi there 👋, Clifford Mbithuka
 
-I am Clifford, a dedicated software developer specializing in Node.js and TypeScript. I create robust, scalable applications by leveraging the type safety of TypeScript and the efficiency of Node.js. Continuously improving my skills, I am passionate about delivering high-quality, reliable software solutions.
+👯 I’m looking to collaborate on Node.js Projects<br>📫 How to reach me: cliffordmusyoka1@gmail.com<br>⚡ Fun fact: I'm a Sanguine
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/clifford-mbithuka-musyoka) 
