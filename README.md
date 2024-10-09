@@ -1,6 +1,6 @@
 #           Hi there 👋,  I'm Clifford Mbithuka
 
-👯 I’m looking to collaborate on Node.js Projects<br>📫 How to reach me: cliffordmusyoka1@gmail.com<br>⚡ Fun fact: I'm a Sanguine
+👯 I’m looking to collaborate on Node.js Projects<br>📫 How to reach me: cliffordmbithukamusyoka@gmail.com<br>⚡ Fun fact: I'm a Sanguine
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/clifford-mbithuka-musyoka) 
